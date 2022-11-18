@@ -1,0 +1,7 @@
+C:\Users\kamil.mustecep\source\repos\imagewriter\imagewriter\bin\Debug\imagewriter.exe.config
+C:\Users\kamil.mustecep\source\repos\imagewriter\imagewriter\bin\Debug\imagewriter.exe
+C:\Users\kamil.mustecep\source\repos\imagewriter\imagewriter\bin\Debug\imagewriter.pdb
+C:\Users\kamil.mustecep\source\repos\imagewriter\imagewriter\obj\Debug\imagewriter.csproj.AssemblyReference.cache
+C:\Users\kamil.mustecep\source\repos\imagewriter\imagewriter\obj\Debug\imagewriter.csproj.CoreCompileInputs.cache
+C:\Users\kamil.mustecep\source\repos\imagewriter\imagewriter\obj\Debug\imagewriter.exe
+C:\Users\kamil.mustecep\source\repos\imagewriter\imagewriter\obj\Debug\imagewriter.pdb
